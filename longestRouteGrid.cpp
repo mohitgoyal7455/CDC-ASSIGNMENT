@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.c>
 using namespace std;
 
 bool isValidMove(const vector<vector<int>>& grid, const vector<vector<bool>>& visited,
